@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "701031944308",
+    "firebase_url": "https://ggchess-11641316.firebaseio.com",
+    "project_id": "ggchess-11641316",
+    "storage_bucket": "ggchess-11641316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701031944308:android:1b81a4d1e76699f3944121",
+        "android_client_info": {
+          "package_name": "com.GlucoseGames.GGChess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701031944308-tg6439l7mmm1fn3g88tgtagknd7jhh7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7KWz19n1bYC8wQbDHZV596CeziRC5wog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701031944308-tg6439l7mmm1fn3g88tgtagknd7jhh7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
